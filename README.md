@@ -1,2 +1,1 @@
-# SI_2024_lab1_223113
-Lab1 SI
+Tamara Stankovska 223113
