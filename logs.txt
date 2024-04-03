@@ -1,0 +1,66 @@
+$ git log
+commit dfe392b7e612c5ee294ac7c4d6188721d4ba0178 (HEAD -> master, origin/master, origin/bug2, origin/HEAD, bug2)
+Author: TamaraStankovska1 <tamarastankovska01@gmail.com>
+Date:   Wed Apr 3 13:46:25 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 9b1501787164e542396505abcc7b36af27783a20
+Author: TamaraStankovska1 <tamarastankovska01@gmail.com>
+Date:   Wed Apr 3 00:12:28 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 39e276168704561bb6cbbcbbea28f92825e4b29e (origin/bug1, bug1)
+Author: TamaraStankovska1 <tamarastankovska01@gmail.com>
+Date:   Wed Apr 3 13:39:51 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 3c4ef70feaf0a1ad7e2d8302736e029111c1854e
+Author: TamaraStankovska1 <tamarastankovska01@gmail.com>
+Date:   Wed Apr 3 00:05:43 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 51ece2ec9216ef824ecd15a512050e673dc14772
+Author: TamaraStankovska1 <tamarastankovska01@gmail.com>
+Date:   Mon Apr 1 20:51:09 2024 +0200
+
+    Add starter code
+
+commit cfce093f77b6bd3a16498539db52383dd9694d51
+Author: TamaraStankovska1 <tamarastankovska01@gmail.com>
+Date:   Mon Apr 1 20:46:44 2024 +0200
+
+    Initial commit
+
+commit 90b687fb403eb8403fcf7107ee4d4c4cc6feb63d
+Author: TamaraStankovska1 <165705077+TamaraStankovska1@users.noreply.github.com>
+Date:   Mon Apr 1 20:08:00 2024 +0200
+
+    Initial commit
+(END)
+commit 3c4ef70feaf0a1ad7e2d8302736e029111c1854e
+Author: TamaraStankovska1 <tamarastankovska01@gmail.com>
+Date:   Wed Apr 3 00:05:43 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 51ece2ec9216ef824ecd15a512050e673dc14772
+Author: TamaraStankovska1 <tamarastankovska01@gmail.com>
+Date:   Mon Apr 1 20:51:09 2024 +0200
+
+    Add starter code
+
+commit cfce093f77b6bd3a16498539db52383dd9694d51
+Author: TamaraStankovska1 <tamarastankovska01@gmail.com>
+Date:   Mon Apr 1 20:46:44 2024 +0200
+
+    Initial commit
+
+commit 90b687fb403eb8403fcf7107ee4d4c4cc6feb63d
+Author: TamaraStankovska1 <165705077+TamaraStankovska1@users.noreply.github.com>
+Date:   Mon Apr 1 20:08:00 2024 +0200
+
+    Initial commit
